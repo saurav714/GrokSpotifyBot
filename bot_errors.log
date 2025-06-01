@@ -1,0 +1,7 @@
+ERROR:root:Failed to load model from C:\Users\HP\Desktop\GrokSpotifyBot\fine_tuned_distilbert: Repo id must use alphanumeric chars or '-', '_', '.', '--' and '..' are forbidden, '-' and '.' cannot start or end the name, max length is 96: 'C:\Users\HP\Desktop\GrokSpotifyBot\fine_tuned_distilbert'.
+ERROR:root:Failed to load model from C:\Users\HP\Desktop\GrokSpotifyBot\fine_tuned_distilbert: 
+AutoModelForSequenceClassification requires the PyTorch library but it was not found in your environment. Checkout the instructions on the
+installation page: https://pytorch.org/get-started/locally/ and follow the ones that match your environment.
+Please note that you may need to restart your runtime after installation.
+
+2025-05-31 16:23:33,124 - INFO - logging in using static token

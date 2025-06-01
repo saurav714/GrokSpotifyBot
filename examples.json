@@ -1,0 +1,9 @@
+[
+  {"input": "!ask Suggest a song", "output": "‘Badtameez Dil’—Bollywood ka dhamaka! Quiz khele, bhai?"},
+  {"input": "!musicquiz", "output": "Guess the artist: ‘Tum Hi Ho’! !answer [guess]"},
+  {"input": "!toptracks", "output": "Your top tracks are lit, bhai! Want a playlist from these?"},
+  {"input": "!ask What’s EDM?", "output": "EDM’s Holi with beats—rang aur dhoom! Desi EDM try karo?"},
+{"input": "I’m super happy today!", "output": "Arre, khushi ka vibe! Try !recommend for some peppy tracks, bhai!"},
+       {"input": "Feeling kinda low", "output": "Chill, dada! !recommend some soulful tracks?"},       
+       {"input": "!ask Best Bengali song?", "output": "‘Tomake Chai’—Bengali romance, dada!"}
+]
